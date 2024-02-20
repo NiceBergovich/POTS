@@ -30,9 +30,5 @@ b. Сколько времени тратится на вычисление tail
 	mobius:find_square_multiples(6, 30_000).
 	24647
 	timer:tc(mobius, find_square_multiples, [6, 30_000], microsecond).
-<<<<<<< Updated upstream
-	{92979,22020}
-=======
 	Время вычислений - 74137
 	Результат - 24647
->>>>>>> Stashed changes
