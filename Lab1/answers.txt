@@ -16,16 +16,23 @@ b. Сколько времени тратится на вычисление tail
 Первый ряд из чисел делящихся на квадрат простого числа длиной 4, 5 и 6 при MaxN равное 30_000. Так же замерю время время выполнения вызова функций посредством стандартной функции timer:tc/3:
 - При 4:
 	mobius:find_square_multiples(4, 30_000).
-	242
+	29887
 	timer:tc(mobius, find_square_multiples, [4, 30_000], microsecond).
-	{102,242}
+	Время вычислений - 2048
+	Результат - 29887
 - При 5:
 	mobius:find_square_multiples(5, 30_000).
-	844
+	29348
 	timer:tc(mobius, find_square_multiples, [5, 30_000], microsecond).
-	{204,844}
+	Время вычислений - 10240
+	Результат - 29348
 - При 6:	
 	mobius:find_square_multiples(6, 30_000).
-	22020
+	24647
 	timer:tc(mobius, find_square_multiples, [6, 30_000], microsecond).
+<<<<<<< Updated upstream
 	{92979,22020}
+=======
+	Время вычислений - 74137
+	Результат - 24647
+>>>>>>> Stashed changes
