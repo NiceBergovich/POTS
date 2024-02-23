@@ -63,9 +63,7 @@ is_square_multiple([_ | T], Acc) ->
 find_square_multiples(Count, MaxN) -> find_square_multiples2(Count, MaxN, []).
 
 % Базовый случай
-find_square_multiples2(Count, Iter, Found) when length(Found) == Count  -> 
-    %% io:format("~w~n", [Found]),
-    Iter+1;
+find_square_multiples2(Count, Iter, Found) when length(Found) == Count  -> Iter+1;
 find_square_multiples2(_, 2, _) -> fail; %% поиск неудался
 
 % Рекурсивный случай
@@ -74,5 +72,4 @@ find_square_multiples2(Count, Iter, Found) ->
         true -> NewFound = Found ++ [Iter];
         _ -> NewFound = [] % сброс
     end,
-    % io:format("~w~n", [NewFound]),
     find_square_multiples2(Count, Iter-1, NewFound).
