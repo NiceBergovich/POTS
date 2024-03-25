@@ -3,7 +3,7 @@
 -export([
     is_rss2_feed/1, 
     compare_feed_items/2,
-    getitem/0, 
+    getitem/1, 
     run_test/0, 
     run_test_1/1, 
     run_test_2/1, 
@@ -119,9 +119,9 @@ compare_feed_fulls(_, _, _, _, _, _, _, _) ->
 
 %% Helper function for quick testing
 %% 
-getitem() ->
+getitem(F) ->
     % Строка с именем файла на чтение
-    F = "RIA.xml",
+    F,
 
     % Парсинг .xml файла 
     {XML, _} = xmerl_scan:file(F),

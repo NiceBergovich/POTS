@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="https://slashdot.org/">
+<title>Slashdot</title>
+<link>https://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
+<dc:date>2020-04-25T18:47:13+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://developers.slashdot.org/story/20/04/25/027248/python-2s-core-devs-say-fond-farewell-while-releasing-its-final-version?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/20/04/25/0122217/some-reopen-domains-could-be-phishing-and-malware-campaigns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/20/04/25/0043230/archivists-uncover-earliest-evidence-of-a-person-being-killed-by-a-meteorite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/20/04/25/007214/america-now-has-one-third-of-the-worlds-confirmed-coronavirus-cases?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/20/04/24/2037223/facebook-takes-on-zoom-with-messenger-rooms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://slashdot.org/story/20/04/24/2243208/intel-ceo-bad-companies-are-destroyed-by-crises-great-companies-are-improved-by-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/20/04/24/2219226/facebook-accuses-nso-group-of-using-us-servers-for-spying?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/20/04/24/226215/ventilator-companies-finally-make-the-life-saving-devices-easier-to-repair?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/20/04/24/2148214/israel-stops-using-phone-tracking-to-enforce-covid-19-quarantines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/20/04/24/2046229/trump-threatens-to-block-aid-for-us-post-office-if-it-does-not-raise-prices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/20/04/24/236223/developers-observe-anzac-day-commemorating-those-who-served-with-a-data-based-anzacathon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/20/04/24/2248252/long-lost-us-military-satellite-found-by-amateur-radio-operator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/20/04/24/2153246/former-labradoodle-breeder-was-tapped-to-lead-us-pandemic-task-force?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://games.slashdot.org/story/20/04/24/2031231/nearly-160000-nintendo-accounts-compromised-in-massive-hack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/20/04/24/2020218/amazon-asks-workers-staying-at-home-to-return-or-seek-leave?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="https://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="https://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>https://slashdot.org/</link>
+</image>
+<item rdf:about="https://developers.slashdot.org/story/20/04/25/027248/python-2s-core-devs-say-fond-farewell-while-releasing-its-final-version?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Python 2's Core Devs Say 'Fond Farewell' While Releasing Its Final Version </title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/uXl6HBGiGII/python-2s-core-devs-say-fond-farewell-while-releasing-its-final-version</link>
+<description>This week Python's core developer blog announced the very last production release of Python 2.7. Hackaday reports:
+The intention was for it to coincide with PyCon 2020, but just like so many of the events planned for the first half of the year, the in-person conference had to be canceled in favor of a virtual one due to the COVID-19 epidemic. That might have stymied the celebration somewhat, but the release of Python 2.7.18 will still be looked on as a special moment for everyone involved. 
+
+"Thank you @gutworth for being the 2.7 release manager during 11 long years," Guido van Rossum announced on Twitter. 
+"It's time for the CPython community to say a fond but firm farewell to Python 2," reads the announcement on the core developer's blog.
+
+Python 2.7 has been under active development since the release of Python 2.6, more than 11 years ago. Over all those years, CPython's core developers and contributors sedulously applied bug fixes to the 2.7 branch, no small task as the Python 2 and 3 branches diverged. 
+
+
+There were large changes midway through Python 2.7's life such as PEP 466's feature backports to the ssl module and hash randomization. Traditionally, these features would never have been added to a branch in maintenance mode, but exceptions were made to keep Python 2 users secure. Thank you to CPython's community for such dedication. 
+
+
+Python 2.7 was lucky to have the services of two generations of binary builders and operating system experts, Martin von L&amp;ouml;wis and Steve Dower for Windows, and Ronald Oussoren and Ned Deily for macOS. The reason we provided binary Python 2.7 releases for macOS 10.9, an operating system obsoleted by Apple 4 years ago, or why the "Microsoft Visual C++ Compiler for Python 2.7" exists is the dedication of these individuals. 
+
+
+Python 3 would be nowhere without the dedication of the wider community. Library maintainers followed CPython by maintaining Python 2 support for many years butalso threw their weight behind the Python 3 statement. Linux distributors chased Python 2 out of their archives. Users migrated hundreds of millions of lines of code, developed porting guides, and kept Python 2 in their brain while Python 3 gained 10 years of improvements. 
+
+Finally, thank you to GvR for creating Python 0.9, 1, 2, and 3. 
+
+Long live Python 3+!	&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Python+2's+Core+Devs+Say+'Fond+Farewell'+While+Releasing+Its+Final+Version+%3A+https%3A%2F%2Fbit.ly%2F2S6Vy4q"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F20%2F04%2F25%2F027248%2Fpython-2s-core-devs-say-fond-farewell-while-releasing-its-final-version%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/20/04/25/027248/python-2s-core-devs-say-fond-farewell-while-releasing-its-final-version?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16243166&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/uXl6HBGiGII" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2020-04-25T18:34:00+00:00</dc:date>
+<dc:subject>python</dc:subject>
+<slash:department>version-2.7.18</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>4</slash:comments>
+<slash:hit_parade>4,4,4,4,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://developers.slashdot.org/story/20/04/25/027248/python-2s-core-devs-say-fond-farewell-while-releasing-its-final-version?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/20/04/25/0122217/some-reopen-domains-could-be-phishing-and-malware-campaigns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Some 'Reopen' Domains Could Be Phishing and Malware Campaigns</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KsoFCDtKjCo/some-reopen-domains-could-be-phishing-and-malware-campaigns</link>
+<description>CNET reports on new research from a threat-intelligence company into the more than 540 domain names registered this month with the word "reopen" in their URL. 
+While hundreds of them are "designed to lend credibility to anti-lockdown protests," and 98 more were purchased to thwart that effort, there's still many other domains that "come from suspicious sources or resellers looking to make money... Researchers at DomainTools have found hundreds of 'reopen' URLs that were bought specifically to be resold and others that resemble malware campaigns."
+
+These are "reopen" websites targeted toward restaurants, movie theaters and sports, and all are set up for sale... "Domainers are a particular type of people who spot any chance they can to hop on a quick buck," said Chad Anderson, senior security researcher at DomainTools. "In any of these instances, there's going to be people who try and pick domains they are able to sell for $5,000 that they bought for $10 because someone wants to start a movement." 
+
+DomainTools' researchers also found a batch of links registered in bulk specifically with typos for the phrase "Reopen American Business." All of these domains were registered in China and have misspellings, indicating they're set up to be phishing pages... The idea is to trick visitors who make typos into entering their sensitive credentials on these fraudulent pages. These domains all have servers registered with Bodis, an advertising service that monetizes domain names and has links to a previous malware campaign from the advanced persistent threat (APT) group DarkHotel. 
+
+APTs are known groups behind cyberattacks. DarkHotel APT is a hacking group that primarily affects victims in Japan, Taiwan, China, Russia and South Korea. "It looks like it's going to be used for phishing campaigns," Anderson said. "It hasn't been fully activated yet, but it has characteristics of a DarkHotel APT group." 
+There's also an interesting detail about the first seven "reopen" pages created, which looked like they represented independent groups but were all registered under the name of pro-gun activist Aaron Dorr from Iowa, and redirected visitors to the gun rights groups that were organizing protests to "liberate" their locked down cities. That activist's family also created "reopen" Facebook groups with hundreds of thousands of followers -- which then directed people to the websites. "NBC News found that many of the websites hosted by Dorr were designed to harvest visitors' data, including emails and home addresses." 
+
+NBC adds that the group's usual method "is to attack established conservative groups from the right, including the National Rifle Association, and then make money by selling memberships in their groups or selling mailing lists of those who sign up, according to some conservative politicians and activists who have labeled the efforts as scams."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Some+'Reopen'+Domains+Could+Be+Phishing+and+Malware+Campaigns%3A+https%3A%2F%2Fbit.ly%2F3aEotmW"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F20%2F04%2F25%2F0122217%2Fsome-reopen-domains-could-be-phishing-and-malware-campaigns%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/20/04/25/0122217/some-reopen-domains-could-be-phishing-and-malware-campaigns?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16243078&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KsoFCDtKjCo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2020-04-25T17:34:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:department>reopen-and-shut-case</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>8</slash:comments>
+<slash:hit_parade>8,8,6,6,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/20/04/25/0122217/some-reopen-domains-could-be-phishing-and-malware-campaigns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/20/04/25/0043230/archivists-uncover-earliest-evidence-of-a-person-being-killed-by-a-meteorite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Archivists Uncover Earliest Evidence of a Person Being Killed By a Meteorite</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/_3O-cgSKoo8/archivists-uncover-earliest-evidence-of-a-person-being-killed-by-a-meteorite</link>
+<description>sciencehabit writes: Although tales of people being killed by meteorite impacts date back to biblical times, few have been documented until the past decade or so. Now, Turkish researchers have uncovered the earliest evidence that a meteorite killed one man and paralyzed another when it slammed into a hilltop in what is now Iraq in August 1888. Documents chronicling the event were found in Turkish state archives, the team reports online today in Meteoritics &amp;amp; Planetary Science. According to one of three letters written by local authorities in the region shortly after the event, the killer meteorite was one of several that fell during a 10-minute interval. Reports of a fireball seen in a city nearby suggest the object approached the area from the southeast before it blew up high in the atmosphere.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Archivists+Uncover+Earliest+Evidence+of+a+Person+Being+Killed+By+a+Meteorite%3A+https%3A%2F%2Fbit.ly%2F2S4xzTC"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F20%2F04%2F25%2F0043230%2Farchivists-uncover-earliest-evidence-of-a-person-being-killed-by-a-meteorite%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/20/04/25/0043230/archivists-uncover-earliest-evidence-of-a-person-being-killed-by-a-meteorite?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16243018&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/_3O-cgSKoo8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2020-04-25T16:34:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>hit-by-space-junk</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>10</slash:comments>
+<slash:hit_parade>10,9,7,6,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/20/04/25/0043230/archivists-uncover-earliest-evidence-of-a-person-being-killed-by-a-meteorite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/20/04/25/007214/america-now-has-one-third-of-the-worlds-confirmed-coronavirus-cases?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>America Now Has One-Third of the World's Confirmed Coronavirus Cases</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/LwDANO5st94/america-now-has-one-third-of-the-worlds-confirmed-coronavirus-cases</link>
+<description>"Confirmed coronavirus cases world-wide Friday exceeded 2.7 million, with more than 190,000 dead," reports the Wall Street Journal, citing data from Johns Hopkins University. 
+While America has just 4.3% of the world's population, "The U.S. accounted for nearly a third of the cases, exceeding 869,000, and more than a quarter of the deaths, at 49,963." [Note: This comparison might be skewed by the number of countries underreporting their cases or deaths.]
+ 
+The Miami Herald reports:
+The coronavirus has killed more than 50,000 people in the United States, just four days after passing 40,000 U.S. deaths on Sunday, Johns Hopkins University reports. The total as of early Friday afternoon was more than 50,370, up about 400 deaths since Thursday night, the data shows... 
+
+More than 25,000 people have died in Italy, and more than 22,000 in Spain... Most of the U.S. deaths have occurred in New York City: 16,388, the university says. 
+
+Two weeks ago America had just 20% of the world's confirmed fatalities.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=America+Now+Has+One-Third+of+the+World's+Confirmed+Coronavirus+Cases%3A+https%3A%2F%2Fbit.ly%2F2VCRpY1"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F20%2F04%2F25%2F007214%2Famerica-now-has-one-third-of-the-worlds-confirmed-coronavirus-cases%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/20/04/25/007214/america-now-has-one-third-of-the-worlds-confirmed-coronavirus-cases?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16242938&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/LwDANO5st94" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2020-04-25T15:34:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>borne-in-the-USA</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>165</slash:comments>
+<slash:hit_parade>165,159,144,126,25,17,8</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/20/04/25/007214/america-now-has-one-third-of-the-worlds-confirmed-coronavirus-cases?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/20/04/24/2037223/facebook-takes-on-zoom-with-messenger-rooms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Facebook Takes On Zoom With 'Messenger Rooms'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/LseTGBFhL0A/facebook-takes-on-zoom-with-messenger-rooms</link>
+<description>Facebook is challenging Zoom with the introduction of "Messenger Rooms," a group messaging service that allows Facebook users to host group calls of up to 50 people that anyone can join. Engadget reports: Instead of inviting people individually, Facebook users can post links in their News Feed or in Groups or event pages. And unlike Messenger's existing video chat features, participants don't need to have the Messenger app or even a Facebook account to join a room. When a room is created, anyone can join via their browser, though hosts can opt to "lock" rooms to new guests to prevent party crashers.
+ 
+There are other Zoom-like features, too. Messenger Rooms will have "immersive 360-degree backgrounds that transport you to beautiful and iconic spaces, from the beach to a luxe apartment on the water," along with "14 new camera filters that offer ambient lighting to brighten your space and your face." Facebook also notes that there are no time limits for video chat sessions, which can be scheduled in advance. Messenger Rooms is starting to roll out now, and will be live in the U.S. "in the coming weeks." Facebook also announced that it's integrating Messenger's video calling into Facebook Dating, so users can participate in "virtual dates" while they can't plan IRL get-togethers. The update will be available "in the coming months."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Takes+On+Zoom+With+'Messenger+Rooms'%3A+https%3A%2F%2Fbit.ly%2F2YgtW0P"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F20%2F04%2F24%2F2037223%2Ffacebook-takes-on-zoom-with-messenger-rooms%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/20/04/24/2037223/facebook-takes-on-zoom-with-messenger-rooms?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16242438&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/LseTGBFhL0A" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2020-04-25T14:30:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>new-challenger-appears</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>14</slash:comments>
+<slash:hit_parade>14,14,13,10,2,1,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/20/04/24/2037223/facebook-takes-on-zoom-with-messenger-rooms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://slashdot.org/story/20/04/24/2243208/intel-ceo-bad-companies-are-destroyed-by-crises-great-companies-are-improved-by-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Intel CEO: Bad Companies Are Destroyed by Crises; Great Companies Are Improved by Them</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gOrWpaybjV4/intel-ceo-bad-companies-are-destroyed-by-crises-great-companies-are-improved-by-them</link>
+<description>Intel CEO Bob Swan cited a quote from former CEO Andy Grove as particularly apt during the pandemic. In a call with analysts, Swan noted that Grove once said, "Bad companies are destroyed by crises; good companies survive them; great companies are improved by them." From a report: Swan made the remarks after reporting what he said were "outstanding" results for both earnings and revenues in the "incredibly challenging" first quarter. But investors were spooked and drove the stock down 5% in after-hours trading, in part because Intel decided not to offer full financial guidance for all of 2020, due to uncertainties in the market. Intel also said its gross profit margins, or the money it makes on the sale of its products, would likely be lower in the second quarter. That is in part because the company is recording higher expenses as it prequalifies the manufacturing of its second generation of 10-nanometer products -- which is considered a normal expense in a process technology transition.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Intel+CEO%3A+Bad+Companies+Are+Destroyed+by+Crises%3B+Great+Companies+Are+Improved+by+Them%3A+https%3A%2F%2Fbit.ly%2F2YgfMgb"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F20%2F04%2F24%2F2243208%2Fintel-ceo-bad-companies-are-destroyed-by-crises-great-companies-are-improved-by-them%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/20/04/24/2243208/intel-ceo-bad-companies-are-destroyed-by-crises-great-companies-are-improved-by-them?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16242752&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/gOrWpaybjV4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2020-04-25T12:00:00+00:00</dc:date>
+<dc:subject>intel</dc:subject>
+<slash:department>unprecedented-times</slash:department>
+<slash:section>slashdot</slash:section>
+<slash:comments>58</slash:comments>
+<slash:hit_parade>58,58,51,39,14,9,3</slash:hit_parade>
+<feedburner:origLink>https://slashdot.org/story/20/04/24/2243208/intel-ceo-bad-companies-are-destroyed-by-crises-great-companies-are-improved-by-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/20/04/24/2219226/facebook-accuses-nso-group-of-using-us-servers-for-spying?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Facebook Accuses NSO Group of Using US Servers for Spying</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/WbPShEB4PIY/facebook-accuses-nso-group-of-using-us-servers-for-spying</link>
+<description>Facebook has accused the Israeli surveillance technology company NSO Group of using servers located in the U.S. to infect hundreds of smartphones with spyware. From a report: The allegation comes as part of a lawsuit that Facebook initiated last year accusing the NSO Group of using WhatsApp accounts to hack into the phones. Facebook owns the popular messaging app. In a filing released on Thursday in federal court in Oakland, California, lawyers representing the social media giant alleged that NSO Group had used a network of remote servers in California to hack into phones and devices that were used by attorneys, journalists, human rights activists, government officials and others. NSO Group has argued that Facebook's case against it should be thrown out on the grounds that the court has no jurisdiction over its operations. In a 13 May legal document, lawyers representing NSO Group said that the company had no offices or employees in California and "do no business of any kind there." NSO has also argued that it has no role in operating the spyware and is limited to "providing advice and technical support to assist customers in setting up" the technology.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Accuses+NSO+Group+of+Using+US+Servers+for+Spying%3A+https%3A%2F%2Fbit.ly%2F2y07JsR"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F20%2F04%2F24%2F2219226%2Ffacebook-accuses-nso-group-of-using-us-servers-for-spying%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/20/04/24/2219226/facebook-accuses-nso-group-of-using-us-servers-for-spying?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16242716&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/WbPShEB4PIY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2020-04-25T10:01:00+00:00</dc:date>
+<dc:subject>court</dc:subject>
+<slash:department>tussle-continues</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>18</slash:comments>
+<slash:hit_parade>18,15,12,7,3,1,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/20/04/24/2219226/facebook-accuses-nso-group-of-using-us-servers-for-spying?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/20/04/24/226215/ventilator-companies-finally-make-the-life-saving-devices-easier-to-repair?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ventilator Companies Finally Make the Life Saving Devices Easier to Repair</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DRMEGW8-8V8/ventilator-companies-finally-make-the-life-saving-devices-easier-to-repair</link>
+<description>America needs ventilators. The coronavirus has spread far enough that Donald Trump used the Defense Production Act on April 2 to make it easier to produce more. There's also broken ventilators on the market that could work with some repairs, but manufacturers spent weeks making it hard to get basic information needed for technicians to repair the machines. From a report: U.S. PIRG and other groups had been pressuring the manufacturers to release the ventilator information for weeks. On April 14, the States Treasurer of Pennsylvania, Delaware, Illinois, Rhode Island, and Colorado called on the manufacturers to release the documents in an open letter. Now, ventilator manufacturers GE, Fisher &amp;amp; Paykal, and Medtronic have made it easier to access the repair manuals and other service information hospitals need to repair broken ventilators. GE opened a web portal where people can download the repair information for its Carescape R860 and Engstrom ventilators. GE typically requires a 4-day in-person training class to learn to repair ventilators but is making the information available to the public "to help navigate this crisis and ensure ventilators are maintained as quickly as possible to get these vital systems back into patient care." 
+
+Medtronic, who makes a number of ventilators, has posted a portal to register for the design and repair information of its ventilators. Meaning that the savvy user could do more than repair a broken machine -- they may be able to build a whole new ventilator. But it's not enough, according to Kyle Wiens of iFixit, a company that advocates for the right-to-repair and teaches people how to fix their own stuff. "Medtronic only released the manual for the PB560, which they don't sell in the U.S," Wiens told Motherboard in a Twitter DM. "We don't have the manual for the PB980, their flagship model and the one used by our hospitals in San Luis Obispo."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ventilator+Companies+Finally+Make+the+Life+Saving+Devices+Easier+to+Repair%3A+https%3A%2F%2Fbit.ly%2F2Vz3cqu"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F20%2F04%2F24%2F226215%2Fventilator-companies-finally-make-the-life-saving-devices-easier-to-repair%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/20/04/24/226215/ventilator-companies-finally-make-the-life-saving-devices-easier-to-repair?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16242672&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/DRMEGW8-8V8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2020-04-25T07:00:00+00:00</dc:date>
+<dc:subject>it</dc:subject>
+<slash:department>for-the-greater-good</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>31</slash:comments>
+<slash:hit_parade>31,28,26,21,10,2,2</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/20/04/24/226215/ventilator-companies-finally-make-the-life-saving-devices-easier-to-repair?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/20/04/24/2148214/israel-stops-using-phone-tracking-to-enforce-covid-19-quarantines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Israel Stops Using Phone Tracking To Enforce COVID-19 Quarantines</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Z5kiPNwCju8/israel-stops-using-phone-tracking-to-enforce-covid-19-quarantines</link>
+<description>Israel's use of phone tracking technology to track COVID-19 patients has come to a partial end. From a report: A parliamentary oversight committee has halted use of the tracking to enforce quarantines after raising privacy concerns. The privacy violations outweigh the benefits, committee member Ayalet Shaked said -- the phone monitoring tech doesn't help much when police already pay visits to COVID-19 patients to ensure they're following the rules. Police have so far argued that the tool is effective, having arrested 203 people with the help of phone location info. Law enforcement conducted about 500 random location checks per day.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Israel+Stops+Using+Phone+Tracking+To+Enforce+COVID-19+Quarantines%3A+https%3A%2F%2Fbit.ly%2F3aI5yI1"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F20%2F04%2F24%2F2148214%2Fisrael-stops-using-phone-tracking-to-enforce-covid-19-quarantines%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/20/04/24/2148214/israel-stops-using-phone-tracking-to-enforce-covid-19-quarantines?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16242622&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Z5kiPNwCju8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2020-04-25T05:00:00+00:00</dc:date>
+<dc:subject>privacy</dc:subject>
+<slash:department>privacy-woes</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,19,17,9,5,2,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/20/04/24/2148214/israel-stops-using-phone-tracking-to-enforce-covid-19-quarantines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/20/04/24/2046229/trump-threatens-to-block-aid-for-us-post-office-if-it-does-not-raise-prices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Trump Threatens To Block Aid For US Post Office If It Does Not Raise Prices</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wqAV2mEEcG8/trump-threatens-to-block-aid-for-us-post-office-if-it-does-not-raise-prices</link>
+<description>An anonymous reader quotes a report from Reuters: President Donald Trump on Friday threatened to block federal aid for the U.S. Postal Service unless it raises shipping rates for online companies like Amazon.com, prompting criticism that the move would hurt consumers relying more than usual on packages during the coronavirus outbreak.
+ 
+The president has long accused the post office of charging too little for packages, saying that deliveries for Amazon and others cost the service money. Amazon founder and CEO Jeff Bezos owns the Washington Post newspaper, which Trump has accused of unfair coverage of his administration. "The Postal Service is a joke. Because they're handing out packages for Amazon and other internet companies, and every time they bring a package, they lose money on it," Trump told reporters in the Oval Office. "The Post Office should raise the price of a package by approximately four times." The president also accused post office officials of being "very cozy" with big online merchants. With the U.S. Postal Service slated to run out of money this summer, the U.S. Congress authorized the Treasury Department to lend it up to $10 billion as part of an earlier $2.3 trillion coronavirus stimulus package. Treasury Secretary Steven Mnuchin said his team was meeting with post office officials "and actually, we are going to put certain criteria for a postal reform program as part of the loan."
+ 
+Trump told Mnuchin at the event he would not support aid unless the postal service raised its rates. "If they don't do it, I'm not signing anything and ... I'm not authorizing you to do anything," Trump said. Later on Friday, Trump said: "I will never let our Post Office fail. It has been mismanaged for years, especially since the advent of the internet and modern-day technology. The people that work there are great, and we're going to keep them happy, healthy, and well!"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Trump+Threatens+To+Block+Aid+For+US+Post+Office+If+It+Does+Not+Raise+Prices%3A+https%3A%2F%2Fbit.ly%2F3bxIywm"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F20%2F04%2F24%2F2046229%2Ftrump-threatens-to-block-aid-for-us-post-office-if-it-does-not-raise-prices%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/20/04/24/2046229/trump-threatens-to-block-aid-for-us-post-office-if-it-does-not-raise-prices?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16242468&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/wqAV2mEEcG8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2020-04-25T03:30:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>delivered-threats</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>252</slash:comments>
+<slash:hit_parade>252,231,188,149,45,27,12</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/20/04/24/2046229/trump-threatens-to-block-aid-for-us-post-office-if-it-does-not-raise-prices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/20/04/24/236223/developers-observe-anzac-day-commemorating-those-who-served-with-a-data-based-anzacathon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Developers Observe Anzac Day, Commemorating Those Who Served, With a Data-Based 'Anzacathon'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/CIxSWzXLbw8/developers-observe-anzac-day-commemorating-those-who-served-with-a-data-based-anzacathon</link>
+<description>Today is Anzac Day, a national day of remembrance in Australia and New Zealand for those who served, marked on the anniversary of the 1915 campaign that led to the first major casualties for Australian and New Zealand Army Corp forces during World War One. 
+
+"More than 87,000 Turks died, along with an estimated 44,000 men from the British Empire and France, including 8,500 Australians and nearly 3,000 New Zealanders," remembers the BBC, "one in four of the Kiwis sent to Gallipoli." 
+
+Taking special note is free and open source software engineer Daniel Pocock, who is also a Debian developer (and Slashdot reader pocock), who writes:
+
+
+In 1981, the movie Gallipoli made the career of Mel Gibson. In 2018, The Guardian lamented that Australia had reached peak Anzac after committing $500 million to expand a war memorial. At the other end of the spectrum, a group of students in Kosovo organized a very low-budget Remembrance Day hackathon in 2019 and it has now been used as the foundation for a data-driven online Anzacathon while traditional memorials will remain closed due to coronavirus. The video helps us reflect not only on the legacy of the Anzacs but our own plight today. 
+
+Living in Europe, Pocock describes the origins of the project. "Last year I had asked myself: are there any sites where there is only one Australian casualty, where nobody has visited them for Anzac Day?" 
+
+The activities list on the Anzacathon page now suggests updating its list of lone Anzac graves around the world, by sharing your own information from the Anzac honour roll of your school, village, company, or club.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Developers+Observe+Anzac+Day%2C+Commemorating+Those+Who+Served%2C+With+a+Data-Based+'Anzacathon'%3A+https%3A%2F%2Fbit.ly%2F2KwTqP9"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F20%2F04%2F24%2F236223%2Fdevelopers-observe-anzac-day-commemorating-those-who-served-with-a-data-based-anzacathon%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/20/04/24/236223/developers-observe-anzac-day-commemorating-those-who-served-with-a-data-based-anzacathon?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16242784&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/CIxSWzXLbw8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2020-04-25T01:30:00+00:00</dc:date>
+<dc:subject>australia</dc:subject>
+<slash:department>Australian-and-New-Zealand-Army-Corps</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>25</slash:comments>
+<slash:hit_parade>25,24,18,12,3,2,1</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/20/04/24/236223/developers-observe-anzac-day-commemorating-those-who-served-with-a-data-based-anzacathon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/20/04/24/2248252/long-lost-us-military-satellite-found-by-amateur-radio-operator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Long-Lost US Military Satellite Found By Amateur Radio Operator</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wq1OA5muuMY/long-lost-us-military-satellite-found-by-amateur-radio-operator</link>
+<description>Tilley, an amateur radio operator living in Canada, found a "zombie" military satellite that was supposed to shut down in 1972. NPR reports: Recently, Tilley got interested in a communications satellite he thought might still be alive -- or at least among the living dead. LES-5, built by the Massachusetts Institute of Technology's Lincoln Laboratory, was launched in 1967. Tilley was inspired by another amateur who in 2016 had found LES-1, an earlier satellite built by the same lab. What was intriguing to him about LES-5 was that if it was still working, it might be the oldest functioning satellite still in geostationary orbit. By scouring the Internet, he found a paper describing the radio frequency that LES-5, an experimental military UHF communications satellite, should be operating on -- if it was still alive. So he decided to have a look.
+ 
+"This required the building of an antenna, erecting a new structure to support it. Pre-amps, filters, stuff that takes time to gather and put all together," he says. "When you have a family and a busy business, you don't really have a lot of time for that," he says. But then came the COVID-19 pandemic. British Columbia, where Tilley lives, was on lockdown. Like many of us, suddenly Tilley had time on his hands. He used it to look for LES-5, and on March 24, he hit the ham radio equivalent of pay dirt. While Tilley thinks it may be possible to send commands to the satellite, the MIT lab that built LES-5 didn't comment on the matter when NPR inquired.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Long-Lost+US+Military+Satellite+Found+By+Amateur+Radio+Operator%3A+https%3A%2F%2Fbit.ly%2F2VTCM1D"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F20%2F04%2F24%2F2248252%2Flong-lost-us-military-satellite-found-by-amateur-radio-operator%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/20/04/24/2248252/long-lost-us-military-satellite-found-by-amateur-radio-operator?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16242762&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/wq1OA5muuMY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2020-04-25T00:40:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>lost-and-found</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>61</slash:comments>
+<slash:hit_parade>61,61,55,32,18,7,6</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/20/04/24/2248252/long-lost-us-military-satellite-found-by-amateur-radio-operator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/20/04/24/2153246/former-labradoodle-breeder-was-tapped-to-lead-us-pandemic-task-force?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Former Labradoodle Breeder Was Tapped To Lead US Pandemic Task Force</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4DDwuzqlALM/former-labradoodle-breeder-was-tapped-to-lead-us-pandemic-task-force</link>
+<description>Aram Roston and Marisa Taylor, reporting for Reuters: On January 21, the day the first U.S. case of coronavirus was reported, the secretary of the Department of Health and Human Services appeared on Fox News to report the latest on the disease as it ravaged China. Alex Azar, a 52-year-old lawyer and former drug industry executive, assured Americans the U.S. government was prepared. "We developed a diagnostic test at the CDC, so we can confirm if somebody has this," Azar said. "We will be spreading that diagnostic around the country so that we are able to do rapid testing on site." While coronavirus in Wuhan, China, was "potentially serious," Azar assured viewers in America, it "was one for which we have a playbook." Azar's initial comments misfired on two fronts. Like many U.S. officials, from President Donald Trump on down, he underestimated the pandemic's severity. He also overestimated his agency's preparedness. 
+
+As is now widely known, two agencies Azar oversaw as HHS secretary, the Centers for Disease Control and Prevention and the Food and Drug Administration, wouldn't come up with viable tests for five and half weeks, even as other countries and the World Health Organization had already prepared their own. Shortly after his televised comments, Azar tapped a trusted aide with minimal public health experience to lead the agency's day-to-day response to COVID-19. The aide, Brian Harrison, had joined the department after running a dog-breeding business for six years. Five sources say some officials in the White House derisively called him "the dog breeder." Azar's optimistic public pronouncement and choice of an inexperienced manager are emblematic of his agency's oft-troubled response to the crisis. His HHS is a behemoth department, overseeing almost every federal public health agency in the country, with a $1.3 trillion budget that exceeds the gross national product of most countries.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Former+Labradoodle+Breeder+Was+Tapped+To+Lead+US+Pandemic+Task+Force%3A+https%3A%2F%2Fbit.ly%2F2Y1y4S4"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F20%2F04%2F24%2F2153246%2Fformer-labradoodle-breeder-was-tapped-to-lead-us-pandemic-task-force%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/20/04/24/2153246/former-labradoodle-breeder-was-tapped-to-lead-us-pandemic-task-force?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16242654&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4DDwuzqlALM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2020-04-24T23:40:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>169</slash:comments>
+<slash:hit_parade>169,160,135,94,21,8,6</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/20/04/24/2153246/former-labradoodle-breeder-was-tapped-to-lead-us-pandemic-task-force?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://games.slashdot.org/story/20/04/24/2031231/nearly-160000-nintendo-accounts-compromised-in-massive-hack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Nearly 160,000 Nintendo Accounts Compromised In Massive Hack</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/veLxcM5dJqQ/nearly-160000-nintendo-accounts-compromised-in-massive-hack</link>
+<description>Nintendo has confirmed that about 160,000 Nintendo Network ID accounts have been compromised since the beginning of April. Digital Trends reports: The Japan-based video game company says login ID and password information of these profiles were obtained "illegally by some means other than our service" and in response, it's freezing the ability to log into a Nintendo account through Nintendo Network ID (NNID). Nintendo began looking into a potential breach after several players reported suspicious logins and fraudulent transactions for digital items like Fortnite VBucks through linked PayPal accounts earlier this month. Nintendo's investigation revealed intruders may have accessed personal data such as nicknames, dates of birth, country of residence, and email addresses.
+ 
+Plus, for users who used the same password for an NNID and Nintendo account, it's warning that their "balance and registered credit card/PayPal may be illegally used at My Nintendo Store or Nintendo eShop." In addition to halting Nintendo Network ID (NNID) logins, Nintendo is reaching out to affected customers via email and resetting their passwords. It's also recommending enabling two-factor authentication to everyone. Despite this, Nintendo is asking users who have discovered fraudulent transactions in their accounts to contact the company so it can cancel the purchases and possibly for initiating refunds.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Nearly+160%2C000+Nintendo+Accounts+Compromised+In+Massive+Hack%3A+https%3A%2F%2Fbit.ly%2F2y035uS"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fgames.slashdot.org%2Fstory%2F20%2F04%2F24%2F2031231%2Fnearly-160000-nintendo-accounts-compromised-in-massive-hack%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://games.slashdot.org/story/20/04/24/2031231/nearly-160000-nintendo-accounts-compromised-in-massive-hack?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16242398&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/veLxcM5dJqQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2020-04-24T23:00:00+00:00</dc:date>
+<dc:subject>nintendo</dc:subject>
+<slash:department>time-to-change-your-password</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>12</slash:comments>
+<slash:hit_parade>12,10,8,6,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://games.slashdot.org/story/20/04/24/2031231/nearly-160000-nintendo-accounts-compromised-in-massive-hack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/20/04/24/2020218/amazon-asks-workers-staying-at-home-to-return-or-seek-leave?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Amazon Asks Workers Staying At Home To Return Or Seek Leave</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ZWWyUmYIpXU/amazon-asks-workers-staying-at-home-to-return-or-seek-leave</link>
+<description>Amazon is asking warehouse employees who have stayed away from work during the pandemic to return for scheduled shifts beginning May 1, or request a leave of absence. Bloomberg reports: The move sets up a critical choice for employees at a company that has become a lifeline for Americans locked down to contain outbreaks of Covid-19. After the coronavirus began spreading through the U.S., Amazon offered unpaid time off without penalty for workers uncomfortable with coming in, along with $2-an-hour hazard pay for those who report for duty. The offers run through April. In a blog post published Friday, Amazon said it would extend the raise through May 16 but made no mention of unlimited unpaid time off. Amazon said it was "providing flexibility with leave of absence options, including expanding the policy to cover Covid-19 circumstances, such as high-risk individuals or school closures."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Amazon+Asks+Workers+Staying+At+Home+To+Return+Or+Seek+Leave%3A+https%3A%2F%2Fbit.ly%2F2x7hOE7"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F20%2F04%2F24%2F2020218%2Famazon-asks-workers-staying-at-home-to-return-or-seek-leave%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/20/04/24/2020218/amazon-asks-workers-staying-at-home-to-return-or-seek-leave?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=16242384&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ZWWyUmYIpXU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2020-04-24T22:20:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>you-have-two-options</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>56</slash:comments>
+<slash:hit_parade>56,52,44,38,7,4,4</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/20/04/24/2020218/amazon-asks-workers-staying-at-home-to-return-or-seek-leave?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="https://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>https://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
