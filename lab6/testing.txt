@@ -1,0 +1,805 @@
+5> {ok, QPid1} = rss_queue:start(cnn_serv, "http://rss.cnn.com/rss/cnn_topstories.rss"). 
+{ok,<0.92.0>}
+6> 
+6> 
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.104.0>:  Size of RSS2Feed: 69 
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:42 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+=INFO REPORT==== 2-April-2024::11:22:43 ===
+rss_queue <0.92.0>:  New item added to Queue. PID: <0.92.0>
+
+6> {ok, QPid2} = rss_queue:start(bbc_serv, "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml"). 
+{ok,<0.109.0>}
+7> 
+7> 
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.110.0>:  Size of RSS2Feed: 51 
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:29:10 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+7> {ok, QPid3} = rss_queue:start(top_stor).
+{ok,<0.114.0>}
+8> 
+
+8> rss_queue:subscribe(top_stor, cnn_serv).
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.92.0>:  New subscriber top_stor to <0.92.0>
+ok
+9> 
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+=INFO REPORT==== 2-April-2024::11:40:46 ===
+rss_queue <0.114.0>:  New item added to Queue. PID: <0.114.0>
+
+9> rss_queue:subscribe(QPid2, QPid3).      
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.114.0>:  New subscriber <0.109.0> to <0.114.0>
+ok
+10> 
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:29 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:30 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:30 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+=INFO REPORT==== 2-April-2024::11:42:30 ===
+rss_queue <0.109.0>:  New item added to Queue. PID: <0.109.0>
+
+
